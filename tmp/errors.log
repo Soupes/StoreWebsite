@@ -1,0 +1,252 @@
+[2020-05-02 16:14:37] Текст ошибки: На найден шаблон admin | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\base\View.php | Строка: 45
+=================
+[2020-05-02 16:14:38] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-02 16:14:45] Текст ошибки: На найден шаблон admin | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\base\View.php | Строка: 45
+=================
+[2020-05-02 16:15:45] Текст ошибки: На найден шаблон admin | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\base\View.php | Строка: 45
+=================
+[2020-05-02 16:15:46] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-02 16:17:00] Текст ошибки: На найден шаблон admin | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\base\View.php | Строка: 45
+=================
+[2020-05-02 16:17:59] Текст ошибки: На найден шаблон admin | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\base\View.php | Строка: 45
+=================
+[2020-05-02 16:19:25] Текст ошибки: На найден шаблон admin | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\base\View.php | Строка: 45
+=================
+[2020-05-02 16:39:01] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-05-02 17:47:27] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 11:55:29] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 11:55:45] Текст ошибки: Метод app\controllers\admin\OrderController::viewAction не найден | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-03 12:22:39] Текст ошибки: На найден вид D:\OSPanel\domains\DiplomSite/app/views/admin\Order/view.php | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2020-05-03 12:43:42] Текст ошибки: Метод app\controllers\admin\UserController::editAction не найден | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-03 12:47:14] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:47:14] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:47:15] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:48:26] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:48:26] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:48:26] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:48:40] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:48:40] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:48:40] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:51:14] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:51:14] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:51:14] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:51:17] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:51:17] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:51:20] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:51:20] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 12:51:20] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 13:33:56] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-03 13:54:43] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 14:31:05] Текст ошибки: Class 'app\controllers\admin\App' not found | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 77
+=================
+[2020-05-03 14:32:07] Текст ошибки: Class 'app\controllers\admin\App' not found | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 77
+=================
+[2020-05-03 14:32:38] Текст ошибки: Class 'app\controllers\admin\App' not found | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 77
+=================
+[2020-05-03 14:34:40] Текст ошибки: Class 'app\controllers\admin\App' not found | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 77
+=================
+[2020-05-03 14:34:41] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-03 14:35:59] Текст ошибки: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 76
+=================
+[2020-05-03 14:36:23] Текст ошибки: Class 'app\controllers\admin\App' not found | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 77
+=================
+[2020-05-03 14:41:57] Текст ошибки: Class 'app\controllers\admin\App' not found | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 77
+=================
+[2020-05-03 14:42:20] Текст ошибки: Class 'app\controllers\admin\App' not found | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 77
+=================
+[2020-05-03 14:55:37] Текст ошибки: Class 'app\controllers\admin\App' not found | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 77
+=================
+[2020-05-03 14:56:28] Текст ошибки: Class 'app\controllers\admin\App' not found | Файл: D:\OSPanel\domains\DiplomSite\app\controllers\admin\CategoryController.php | Строка: 77
+=================
+[2020-05-03 15:24:11] Текст ошибки: На найден вид D:\OSPanel\domains\DiplomSite/app/views/admin\User/index.php | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2020-05-03 15:57:19] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'telephone' doesn't have a default value | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-03 15:59:04] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'telephone' doesn't have a default value | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-03 16:03:16] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'telephone' doesn't have a default value | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-03 16:13:14] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'telephone' doesn't have a default value | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-03 16:14:01] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'telephone' doesn't have a default value | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-06 12:05:14] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-06 12:05:45] Текст ошибки: На найден вид D:\OSPanel\domains\DiplomSite/app/views/admin\Product/index.php | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2020-05-06 12:32:40] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-06 12:36:09] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect double value: '' for column `ishop2`.`product`.`old_price` at row 1 | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-06 12:45:04] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-06 12:47:51] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-06 12:52:52] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-06 12:52:56] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-06 12:59:07] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-06 13:34:27] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect double value: '' for column `ishop2`.`product`.`old_price` at row 1 | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-06 13:34:42] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect double value: '' for column `ishop2`.`product`.`old_price` at row 1 | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-06 13:40:07] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-08 10:59:19] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-08 11:09:17] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'brand_id' doesn't have a default value | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-08 11:09:44] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'brand_id' doesn't have a default value | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-05-08 11:16:37] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-08 11:18:14] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-08 11:21:30] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-08 11:24:11] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-08 11:25:28] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-08 11:25:55] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-08 11:25:58] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-08 11:26:37] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-08 11:26:37] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-08 11:26:38] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-08 11:26:40] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-08 11:52:46] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-08 12:10:39] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-08 12:27:20] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-09 09:58:27] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-09 09:59:14] Текст ошибки: Метод app\controllers\admin\ProductController::editAction не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-09 10:21:26] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-09 10:25:50] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\controllers\admin\AppController.php | Строка: 29
+=================
+[2020-05-09 10:28:29] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-09 10:28:35] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-09 10:29:05] Текст ошибки: Метод app\controllers\admin\ProductController::deleteAction не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-05-09 10:51:03] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-12 14:32:04] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-12 14:37:21] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-12 14:58:10] Текст ошибки: Invalid type: attribute_group | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Строка: 77
+=================
+[2020-05-12 15:02:08] Текст ошибки: Invalid type: attribute_group | Файл: D:\OSPanel\domains\DiplomSite\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Строка: 77
+=================
+[2020-05-12 15:21:53] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-13 17:45:35] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-13 21:35:47] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-13 21:40:11] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\controllers\CategoryController.php | Строка: 17
+=================
+[2020-05-13 21:40:52] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-13 21:48:05] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-05-13 22:01:55] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-06-01 01:26:15] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-06-17 15:24:15] Текст ошибки: Контроллер app\controllers\LayoutsController не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-06-17 15:24:15] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-06-17 15:24:23] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-06-17 15:24:26] Текст ошибки: Контроллер app\controllers\LayoutsController не найден | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-06-17 17:15:56] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-06-17 18:25:28] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-06-21 16:23:51] Текст ошибки: syntax error, unexpected 'ч' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 30
+=================
+[2020-06-21 16:23:51] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-06-21 16:23:58] Текст ошибки: syntax error, unexpected 'ч' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 30
+=================
+[2020-06-21 16:24:50] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:16] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:17] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:17] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:17] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:18] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:18] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:18] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:18] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:18] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:18] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:20] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:20] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-06-21 16:25:46] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:46] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:25:46] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-06-21 16:26:00] Текст ошибки: Call to undefined method app\models\Product::getAllRecentlyViewed() | Файл: D:\torrent\OSPanel\domains\DiplomSite\app\models\Product.php | Строка: 8
+=================
+[2020-12-03 22:12:53] Текст ошибки: Страница не найдена | Файл: D:\torrent\OSPanel\domains\DiplomSite\vendor\ishop\core\Router.php | Строка: 39
+=================

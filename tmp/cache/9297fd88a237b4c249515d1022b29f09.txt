@@ -1,0 +1,11 @@
+a:2:{s:4:"data";s:347:"<li>
+    <a href="category/posuda-i-oborudovanie">Посуда и оборудование</a>
+            <ul>
+            <li>
+    <a href="category/sousniki">Соусники</a>
+    </li><li>
+    <a href="category/supnicy">Супницы</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/lapsha">Лапша</a>
+    </li>";s:8:"end_time";i:1607026282;}
